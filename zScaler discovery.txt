@@ -1,0 +1,30 @@
+zScaler discovery
+
+Security Compliance
+Reports and CTO
+
+From Compliance angle - 
+Tool set owned operated by CISO
+Threat moddeling, Pen testing etc...
+Proof of value of meeting risk
+
+How are you quantifying risk right now? Their normalization
+How are you measuring compliance and success or lack thereof?
+SLAs? Measurement? Less than 30 for critical
+What are artifacts that are gathered from individual teams?
+
+Controls of ISO, etc...
+
+Give visibility..trend..metrics. Where are problems?
+Does team crive best practices? - Pipeline is set up to go through steps of tooling. Some are automated.
+
+Change control board meeting. Every Friday. Critical findings are reviewed.
+Release weekly.
+Works on SOC2 - They are handed Excel Sheet or given access to Coverity. They take screen shots for auditor. Once a year.
+
+Use Zen GRC for controls. Use OneTrust for third party risk.
+COCA (COllect one certify all) - Sends required data request. 198 ZScaler controls in GRC tool.
+2-4 weeks to get data from teams for controls.
+
+Aquisition - Have to add to another box who they provide more evidence
+800 developers
